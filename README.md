@@ -73,9 +73,7 @@ Values are rounded as displayed in the dashboard.
 - `Hospital_Management_Tableau_Project_Brief.docx` - project brief with the business objective and questions
 - `Screenshots/` - dashboard and story point screenshots
 
-## Data and privacy
 
-Before publishing, confirm that the dataset and Tableau workbook contain no real patient information or other data that should not be public. Tableau packaged workbooks (`.twbx`) can contain embedded data. Do not commit the raw CSV or an embedded workbook extract unless the data is approved for public sharing.
 
 ## Interpretation
 
