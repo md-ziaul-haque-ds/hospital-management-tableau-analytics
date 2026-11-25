@@ -28,7 +28,7 @@ The Tableau story presents four views:
 2. **Department Cost Analysis**
 3. **Outcome Analysis**
 4. **Doctor Performance**
-## [Dashboard](https://github.com/md-ziaul-haque-ds/hospital-management-tableau-analytics/blob/main/Screenshots/dashboard.png)
+## (https://github.com/md-ziaul-haque-ds/hospital-management-tableau-analytics/blob/main/Screenshots/dashboard.png)
 ## Findings
 
 Based on the project dataset and the displayed dashboard:
