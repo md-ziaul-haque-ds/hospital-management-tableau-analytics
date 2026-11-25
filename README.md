@@ -29,7 +29,7 @@ The Tableau story presents four views:
 3. **Outcome Analysis**
 4. **Doctor Performance**
 
-![Hospital Operations Insights dashboard](screenshots/dashboard.png)
+![Hospital Operations Insights dashboard](screenshots/Hospital%20dashboard.png)
 ## Findings
 
 Based on the project dataset and the displayed dashboard:
