@@ -10,7 +10,7 @@ Help hospital management review patterns in patient volume, treatment costs, and
 
 [View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/md.ziaul.haque2813/viz/Hospital_Management_Tableau_Dashboard/InteractiveDashboard)
 
-![Hospital Operations Insights dashboard with four KPI cards, five charts and five filters](screenshots/dashboard.png)
+![Hospital Operations Insights dashboard with four KPI cards, five charts and five filters](Screenshots/dashboard.png)
 
 The dashboard brings together:
 
@@ -29,25 +29,25 @@ The Tableau story presents four views.
 
 ### 1. Patient Distribution
 
-![Story point 1: bar chart of patients by hospital region, with West highlighted](screenshots/01-patient-distribution.png)
+![Story point 1: bar chart of patients by hospital region, with West highlighted](Screenshots/01-patient-distribution.png)
 
 West has the most patients (61 of 260). South and North follow with 51 each, then East (49) and Central (48).
 
 ### 2. Department Cost Analysis
 
-![Story point 2: bar chart of treatment cost by department, with Neurology highlighted](screenshots/02-department-cost-analysis.png)
+![Story point 2: bar chart of treatment cost by department, with Neurology highlighted](Screenshots/02-department-cost-analysis.png)
 
 Neurology has the highest treatment cost at $5.32M, followed by Cardiology ($4.44M), Pediatrics ($3.72M), General Medicine ($3.25M), and Orthopedics ($3.17M).
 
 ### 3. Outcome Analysis
 
-![Story point 3: pie chart of patient outcomes](screenshots/03-outcome-analysis.png)
+![Story point 3: pie chart of patient outcomes](Screenshots/03-outcome-analysis.png)
 
 Outcomes are split almost evenly: 89 Recovered (34.2%), 87 Under Treatment (33.5%), and 84 Critical (32.3%).
 
 ### 4. Doctor Performance
 
-![Story point 4: ranked bar chart of doctors by total treatment cost, with Dr. Roy highlighted](screenshots/04-doctor-performance.png)
+![Story point 4: ranked bar chart of doctors by total treatment cost, with Dr. Roy highlighted](Screenshots/04-doctor-performance.png)
 
 Dr. Roy has the highest total treatment cost at $3.90M, followed by Dr. Mehta ($3.62M), Dr. Iyer ($3.31M), Dr. Sharma ($3.27M), Dr. Khan ($3.08M), and Dr. Patel ($2.72M).
 
@@ -68,11 +68,10 @@ Values are rounded as displayed in the dashboard.
 
 ## Project files
 
-Add the files you want readers to access, for example:
-
-- Tableau workbook (`.twbx` or `.twb`)
-- Dashboard and story screenshots
-- Project brief describing the business questions and findings
+- `Dataset/` - the hospital dataset (260 patient records)
+- `Hospital_Management_Tableau_Project.twbx` - Tableau packaged workbook with the dashboard and story
+- `Hospital_Management_Tableau_Project_Brief.docx` - project brief with the business objective and questions
+- `Screenshots/` - dashboard and story point screenshots
 
 ## Data and privacy
 
