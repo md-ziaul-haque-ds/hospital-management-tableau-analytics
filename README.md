@@ -7,6 +7,7 @@ An interactive Tableau dashboard and four-part story exploring patient distribut
 Help hospital management review patterns in patient volume, treatment costs, and recorded outcomes. The dashboard supports exploration of the available data; its charts describe patterns and do not establish their causes.
 
 ## Dashboard
+## [Live Dashboard](https://public.tableau.com/app/profile/md.ziaul.haque2813/viz/Hospital_Management_Tableau_Dashboard/InteractiveDashboard)
 
 The dashboard brings together:
 
