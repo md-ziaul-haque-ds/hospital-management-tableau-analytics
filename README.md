@@ -62,7 +62,7 @@ Based on the project dataset and the displayed dashboard:
 - **July** had the highest displayed monthly treatment cost, at **$2.17M**; **October** had the lowest, at **$1.01M**.
 - Outcomes were **89 Recovered (34.2%)**, **87 Under Treatment (33.5%)**, and **84 Critical (32.3%)**.
 - **Dr. Roy** had the highest displayed doctor treatment cost, at **$3.90M**.
-- In the underlying dataset, **South and West tied for the most Critical patients, with 20 each**. This count was calculated directly from the data; a separate chart is not required to report it.
+- South and West tied for the most Critical patients, with 20 each (calculated from the dataset).
 
 Values are rounded as displayed in the dashboard.
 
@@ -73,7 +73,8 @@ Values are rounded as displayed in the dashboard.
 - `Hospital_Management_Tableau_Project_Brief.docx` - project brief with the business objective and questions
 - `Screenshots/` - dashboard and story point screenshots
 
-
+## Data and privacy
+The dataset in Dataset/ is a sample hospital dataset (260 records). It contains patient IDs but no names or contact details.
 
 ## Interpretation
 
