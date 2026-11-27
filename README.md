@@ -74,7 +74,7 @@ Values are rounded as displayed in the dashboard.
 - `Screenshots/` - dashboard and story point screenshots
 
 ## Data and privacy
-The dataset in Dataset/ is a sample hospital dataset (260 records). It contains patient IDs but no names or contact details.
+The dataset in Dataset is a sample hospital dataset (260 records). It contains patient IDs but no names or contact details.
 
 ## Interpretation
 
